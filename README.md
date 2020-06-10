@@ -36,3 +36,7 @@ Game Creating following the Unreal Engine [Course](https://www.udemy.com/unrealc
   * Gun Firing
   * Moving 
   * On hit
+  
+  ** Lecture Lists**
+  * BT01 Intro, Notes & Assets 
+  * BT02 Game Design Document (GDD)
