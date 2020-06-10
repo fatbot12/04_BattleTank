@@ -37,6 +37,7 @@ Game Creating following the Unreal Engine [Course](https://www.udemy.com/unrealc
   * Moving 
   * On hit
   
-  ** Lecture Lists**
+  **Lecture Lists**
   * BT01 Intro, Notes & Assets 
   * BT02 Game Design Document (GDD)
+  * BT03 Setting up a Github Repo
