@@ -41,3 +41,5 @@ Game Creating following the Unreal Engine [Course](https://www.udemy.com/unrealc
   * BT01 Intro, Notes & Assets 
   * BT02 Game Design Document (GDD)
   * BT03 Setting up a Github Repo
+  * BT04 Setting up landscape
+  
